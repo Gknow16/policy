@@ -1,5 +1,5 @@
 <template>
-  <h1><img src="public/Terra0.png"></h1>
+  <h1><img src="../assets/Terra0.png"></h1>
   <header><h1>Privacy Policy</h1></header>
   <br />
   <h3>Effective: November 1, 2022</h3>

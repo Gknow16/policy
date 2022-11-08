@@ -5,3 +5,5 @@ import Policy from './components/Policy.vue'
 <template>
   <Policy />
 </template>
+
+
